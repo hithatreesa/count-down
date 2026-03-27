@@ -1,12 +1,12 @@
 .main {
   display: flex;
   justify-content: center;
-  /* Overall block centered */
   align-items: center;
-  min-height: 100vh;
-  padding: 40px 10px;
+  height: 100vh;
+  height: 100svh;
+  padding: 20px;
   background-color: #e5e5e5;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .container {

@@ -8,12 +8,14 @@
   box-sizing: border-box;
 }
 
-body {
+html, body {
   background-color: #e5e5e5;
   color: #333;
   font-family: var(--font-poppins);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+  height: 100%;
 }
 
 .font-sans {
